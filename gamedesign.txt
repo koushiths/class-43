@@ -1,0 +1,8 @@
+game story
+pc(playing chacter)and npc(non playing chacter)
+player goals
+rules
+balance
+adaptivity
+skill and chance
+immediate feedback
